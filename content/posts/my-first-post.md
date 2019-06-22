@@ -5,9 +5,9 @@ draft: false
 ---
 FridaysForFuture Demo am 05.07.2019
 ====
-FfF möchte am 05.97. den Regensburger 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 8 Veranstaltungen auf der Straße mit dem Nebeneffekt hat für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren.
+FfF möchte am 05.97. den Regensburger 8 konkrete Ziele zum Klimaschutz vorstellen. Dies geschieht im Rahmen von 8 Veranstaltungen auf der Straße, mit dem Nebeneffekt für 2h den Autoverkehr in der Regensburger Altstadt zu reduzieren.
 
-HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt ideell wie materiell und personell [FfF Regensburg](https://www.facebook.com/fridaysforfuturergb/) dabei.
+HackersForFuture nimmt an einer dieser Veranstaltungen teil und unterstüzt dabei ideell wie materiell und personell [FfF Regensburg](https://www.facebook.com/fridaysforfuturergb/).
 Wir zeigen
 
   * Wie Feinstaub selbst gemessen werden kann
