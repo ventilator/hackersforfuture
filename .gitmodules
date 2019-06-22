@@ -4,3 +4,6 @@
 [submodule "ventilator.github.io"]
 	path = ventilator.github.io
 	url = git@github.com:ventilator/ventilator.github.io.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git

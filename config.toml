@@ -1,4 +1,57 @@
 baseURL = "https://ventilator.github.io"
 languageCode = "en-us"
-title = "Hackersforfuture"
-theme = "ananke" 
+title = "Hackersforfuture" 
+publishDir = "ventilator.github.io"
+
+theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = false
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.en]
+    title = "HackersForFuture"
+    subtitle = "Menschen mit Technikbezug gegen globale Erwärmung"
+    keywords = ""
+    copyright = ""
+    menuMore = "Mehr"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "HackersForFuture.de"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "Menschen"
+        url = "/about"	
+		weight = -80		
+      [[languages.en.menu.main]]
+        identifier = "impress"
+        name = "Impressum"
+        url = "/impress"
+		weight = 0
+      [[languages.en.menu.main]]
+        identifier = "target"
+        name = "Ziele"
+        url = "/targets"	
+		weight = -100		
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projekte"
+        url = "/projects"	
+		weight = -90		
