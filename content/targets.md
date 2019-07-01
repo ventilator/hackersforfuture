@@ -14,3 +14,6 @@ Warum?
   * Wir finden, Technologie kann zum Klimaschutz beitragen
   * Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz
 
+Warum 'Hacker'?
+====
+Hacker (engl.) = Mensch mit Technologiebezug und [ethischen Grundsätzen](https://www.ccc.de/de/hackerethik)

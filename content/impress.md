@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-date: 2019-06-22T14:49:55+02:00
+date: 2019-06-22T08:08:00+02:00
 draft: false
 ---
 Angaben gemäß § 5 TMG
