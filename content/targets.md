@@ -11,7 +11,7 @@ draft: false
 Warum?
 ====  
   * Wir denken, globale Erwärmung verdient eine hohe Priorität  
-  * Wir finden, Technologie kann zum Klimaschutz beitragen
+  * Wir finden, Technologie kann zum Klimaschutz und zur [Klimaresilienz](https://de.wikipedia.org/wiki/Resilienz_(%C3%96kosystem)) beitragen
   * Wir glauben, digitalpolitische Themen betreffen auch den Klimaschutz
 
 Warum 'Hacker'?
